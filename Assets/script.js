@@ -3,7 +3,7 @@ var timeBlock = [
     {
         id: '0',
         hour: '9',
-        time: '9',
+        time: '09',
         m: 'AM',
         reminder: ''
     },
